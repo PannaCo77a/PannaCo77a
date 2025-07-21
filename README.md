@@ -5,7 +5,7 @@ Senior Solidity Engineer with 5+ years crafting secure Ethereum/DeFi contracts. 
 ## Skills
 - ![Solidity](https://img.shields.io/badge/Solidity-5%2B%20Years-purple)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-yellow)
-- ![Ethereum](https://img.shields.io/badge/Ethereum-DeFi%20Specialist-green)
+- ![Ethereum](https://img.shields.io/badge/Ethereum-DeFi%20Specialist-purple)
 - Python 3.11 for automation scripts.
 
 ## Key Projects
