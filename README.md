@@ -1,15 +1,15 @@
 # Hey, I'm Vlad Episk 👋
 
-Senior Solidity Engineer with 5+ years crafting secure Ethereum/DeFi contracts. TypeScript pro for bulletproof dApps. Based in PST—hunting remote web3 gigs!
+Senior Solidity Engineer with 5+ years crafting secure Ethereum/DeFi contracts. TypeScript pro for bulletproof dApps. DM for collabs! 🚀
 
 ## Skills
 - ![Solidity](https://img.shields.io/badge/Solidity-5%2B%20Years-purple)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-yellow)
 - ![Ethereum](https://img.shields.io/badge/Ethereum-DeFi%20Specialist-purple)
-- Python 3.11 for automation scripts.
+- Python for automation scripts.
 
 ## Key Projects
-- **X**: My latest Solidity playground—check the code!
+- **X**: My latest Solidity playground-check the code!
 - **Decentralized Exchange (DEX) with Staking**: 
 
 # Decentralized Exchange (DEX) with Staking
@@ -103,9 +103,9 @@ Interact via ethers.js (TS compatible) or Remix.
 
 MIT License.
 
-Contribute or connect—let's build DeFi innovations!
+Contribute or connect-let's build DeFi innovations!
 
 ## About Me
-Seasoned Solidity dev with 5+ yrs shipping audited DeFi protocols that handle $100M+ TVL—cut gas by 50% in prod swaps, thwarted exploits via CEI mastery. Bring battle-tested Ethereum smarts to your crypto crew: optimize, secure, and scale your dApp game. Remote-ready—let's crush web3!
+Seasoned Solidity dev with 5+ yrs shipping audited DeFi protocols that handle $100M+ TVL-cut gas by 50% in prod swaps, thwarted exploits via CEI mastery. Bring battle-tested Ethereum smarts to your crypto crew: optimize, secure, and scale your dApp game. Remote-ready-let's crush web3!
 
 Connect: [LinkedIn](your-link) | [Twitter](your-link)
