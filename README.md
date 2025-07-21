@@ -1,4 +1,4 @@
-# Hey, I'm Vlad Episk 👋
+# Hey, I'm Vladislav Episk 👋
 
 Senior Solidity Engineer with 5+ years crafting secure Ethereum/DeFi contracts. TypeScript pro for bulletproof dApps. DM for collabs! 🚀
 
