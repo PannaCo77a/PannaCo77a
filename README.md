@@ -9,7 +9,6 @@ Senior Solidity Engineer with 5+ years crafting secure Ethereum/DeFi contracts. 
 - Python for automation scripts.
 
 ## Key Projects
-- **X**: My latest Solidity playground-check the code!
 - **Decentralized Exchange (DEX) with Staking**: 
 
 # Decentralized Exchange (DEX) with Staking
