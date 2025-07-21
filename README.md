@@ -85,7 +85,6 @@ Interact via ethers.js (TS compatible) or Remix.
 
 ## Contract Interaction Diagram
 
-![Diagram](https://github.com/user-attachments/assets/e3e6a508-35b7-4e16-acfc-ef7dd139fc77)
 
 - Token → Base assets.
 - Factory → Creates pairs.
